@@ -23,52 +23,31 @@ Data on ~500 Hotel booking Sites  around the world, including details on their l
 
 ### 5.	Features / Highlights
 The best dashboard explanation format. 
-•	Business problem
+•	Business problem 
 •	Goal of the dashboard
 •	Walk through of key visuals (briefly!)
 •	Business impact & Insights
 
-Example:
-•	Business Problem
-The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries. 
-
-Key questions such as:
-Which regions offer the most family-friendly or expert-level skiing?
-Where is summer skiing available?
-What countries have the most well-equipped resorts?
-… are difficult to answer quickly with raw data.
-
 •	Goal of the Dashboard
-To deliver an interactive visual tool that:
-Enables users to explore ski resorts globally.
-Supports decisions such as vacation planning, regional marketing, or infrastructure investment.
-Uncovers trends in terrain, accessibility, and tourism capacity by region and resort.
+•Design a business intelligence dashboard aimed at helping AtliQ Grands identify revenue leakage
+•Analyze market trends with the help of diffrent charts and graphs 
+•Analyze data that come  from  online sites which are into hospitality domain ,all KPI's of the hospitality domain  
 
 •	Walkthrough of Key Visuals
--	Key KPIs (Top Left)
-Total number of resorts: 499
-Resorts with summer skiing: 29
-Resorts with night skiing: 204
-Child-friendly resorts: 495
-Countries covered: 38
-Continents represented: 5
--	Continent Filter Panel
-An interactive slicer lets users filter all visuals by selected continents, such as Europe or Asia.
--	Top Countries with Most Resorts (Bar Chart)
-Bar chart ranks countries like Austria, France, and the U.S. by number of ski resorts.
--	Slopes by Resort (Line Chart)
-Displays the distribution of slope types (beginner, intermediate, expert, and total). Helps identify which resorts favor beginners vs. experts.
--	 Resorts by Skill Level (Dual Line Charts)
-Two line visuals side by side: one for resorts that cater to beginners, another for experts—allowing skill-level segmentation.
--	Elevation Stats (Grouped Bar Chart)
-Compare the highest and lowest elevation points of resorts to understand terrain steepness and potential snow quality.
--	Lift Types by Resort (Stacked Bar Chart)
-Stacked bar chart showing:
-Gondola lifts
-Chair lifts
-Surface lifts
-Total lifts
-This helps users gauge resort infrastructure and capacity.
+-	Key KPIs
+-	Revenue
+-	RevPar
+-	DSRN
+-	Occupancy%
+-	ADR
+-	Realisation
+
+An interactive slicer lets users filter all visuals by selected city, such as Delhi , Banglore , Hyderabad and Mumbai,.
+Bar chart gives the Realisation% and ADR by plattform 
+Donut chart Displays the %Revenue by Category
+Three line visuals side by side: one for RevPar another is for Occupancy% and the last is for ADR.
+-	Table
+  Consist of the data regarding all the metrics that are used in the hospitality domain and that are crucial in decision making filtered by property name and location
 
 •	Business Impact & Insights
 Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain).
