@@ -1,4 +1,4 @@
-# Hospitality-Revenue-Insights-Dashboard
+# Hospitality-Revenue-Insights
 
 ### 1.	Project Title / Headline
  Hospitality  Analytics Dashboard: Revenue Insights in Hospitality Domain
