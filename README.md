@@ -22,16 +22,10 @@ The dataset used for this project was sourced from publicly available hospitalit
 Data on ~500 Hotel booking Sites  around the world, including details on their location, prices, Occupancy, Revenue  etc.
 
 ### 5.	Features / Highlights
-The best dashboard explanation format. 
-•	Business problem 
-•	Goal of the dashboard
-•	Walk through of key visuals (briefly!)
-•	Business impact & Insights
-
-•	Goal of the Dashboard
-•Design a business intelligence dashboard aimed at helping AtliQ Grands identify revenue leakage
-•Analyze market trends with the help of diffrent charts and graphs 
-•Analyze data that come  from  online sites which are into hospitality domain ,all KPI's of the hospitality domain  
+####Goal of the Dashboar<br>
+•Design a business intelligence dashboard aimed at helping AtliQ Grands identify revenue leakage<br>
+•Analyze market trends with the help of diffrent charts and graphs.<br> 
+•Analyze data that come  from  online sites which are into hospitality domain ,all KPI's of the hospitality domain.<br>  
 
 •	Walkthrough of Key Visuals
 -	Revenue
