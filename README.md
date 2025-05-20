@@ -5,7 +5,7 @@
 
 
 ### 2. Purpose
-AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
+Etra hotel group owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
 
 ### 3.	Tech Stack
 
@@ -34,7 +34,6 @@ The best dashboard explanation format.
 •Analyze data that come  from  online sites which are into hospitality domain ,all KPI's of the hospitality domain  
 
 •	Walkthrough of Key Visuals
--	Key KPIs
 -	Revenue
 -	RevPar
 -	DSRN
@@ -42,18 +41,32 @@ The best dashboard explanation format.
 -	ADR
 -	Realisation
 
-An interactive slicer lets users filter all visuals by selected city, such as Delhi , Banglore , Hyderabad and Mumbai,.
-Bar chart gives the Realisation% and ADR by plattform 
-Donut chart Displays the %Revenue by Category
-Three line visuals side by side: one for RevPar another is for Occupancy% and the last is for ADR.
--	Table
-  Consist of the data regarding all the metrics that are used in the hospitality domain and that are crucial in decision making filtered by property name and location
+-An interactive slicer lets users filter all visuals by selected city, such as Delhi , Banglore , Hyderabad and Mumbai,.
+-Bar chart gives the Realisation% and ADR by plattform 
+-Donut chart Displays the %Revenue by Category
+-Three line visuals side by side: one for RevPar another is for Occupancy% and the last is for ADR.
+-	Table Consist of the data regarding all the metrics that are used in the hospitality domain and that are crucial in decision making filtered by property name and location
 
 •	Business Impact & Insights
-Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain).
-Strategic Expansion: Resort developers can spot underdeveloped regions with high potential.
-Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty.
-Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
+📈 Revenue Growth: Significant increase in bookings and average revenue per room (RevPAR) due to data-driven pricing and promotion strategies.
+
+🎯 Improved Targeting: Enhanced customer segmentation led to more personalized marketing and higher conversion rates.
+
+🧠 Smarter Decision-Making: Real-time dashboards and analytics empowered leadership to make faster, evidence-based decisions.
+
+📊 Optimized Operations: Better inventory and staffing forecasts reduced operational costs and improved service quality.
+
+💼 Market Position Recovery: Regained competitive edge and market share in the luxury/business hotel category.
+
+🧍‍♂️ Enhanced Guest Experience: Data on customer preferences helped tailor services, improving guest satisfaction and loyalty.
+
+⏱️ Faster Response to Trends: Ability to identify and respond quickly to market shifts or seasonal demand patterns.
+
+💬 Improved Online Reputation: Proactive sentiment analysis on reviews and feedback led to quicker issue resolution and stronger brand image.
+
+🤝 Better Partner Management: Data-driven collaboration with travel agencies and corporate clients strengthened long-term relationships.
+
+🔄 Continuous Improvement: A culture of continuous improvement was established through performance tracking and KPI monitoring.
 
 ### 6.	Screenshot of the Dashboard
   - ![Alt text](https://github.com/username/repo/assets/image.png)
