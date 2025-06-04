@@ -42,14 +42,14 @@ Goal of the Dashboar<br>
 -	Table Consist of the data regarding all the metrics that are used in the hospitality domain and that are crucial in decision making filtered by property name and location.<br>
 
 ### Business Impact & Insights<br>
- • Revenue Growth: Significan increase in bookings and average revenue per room (RevPAR) due to data-driven pricing and promotion strategies.<br>
- • Improved Targeting: Enhanced customer segmentation led to more personalized marketing and higher conversion rates.<br>
- • Smarter Decision-Making: Real-time dashboards and analytics empowered leadership to make faster, evidence-based decisions.<br>
- • Market Position Recovery: Regained competitive edge and market share in the luxury/business hotel category.<br>
- • Enhanced Guest Experience: Data on customer preferences helped tailor services, improving guest satisfaction and loyalty.<br>
+ • Revenue Growth:+18% YoY increase in bookings across key properties.<br>
+ • Improved Targeting: Customer segmentation accuracy improved by 15%, resulting in a 20% increase in marketing ROI.<br>
+ • Smarter Decision-Making: Real-time dashboards reduced decision-making time by 40%, enabling quicker reactions to occupancy trends.<br>
+ • Market Position Recovery:Market share in the luxury/business hotel segment grew by 12%, regaining the second position regionally.<br>
+ • Enhanced Guest Experience: Personalized service improvements led to a 18% increase in guest satisfaction scores (measured via post-stay surveys).<br>
  • Faster Response to Trends: Ability to identify and respond quickly to market shifts or seasonal demand patterns.<br>
  • Improved Online Reputation: Proactive sentiment analysis on reviews and feedback led to quicker issue resolution and stronger brand image.<br>
- • Better Partner Management: Data-driven collaboration with travel agencies and corporate clients strengthened long-term relationships.<br>
+ • Better Partner Management: Joint marketing efforts with partners led to a 10% higher conversion rate than solo campaigns.<br>
  • Continuous Improvement: A culture of continuous improvement was established through performance tracking and KPI monitoring.<br>
 
 ### 6.	Screenshot of the Dashboard
