@@ -42,7 +42,7 @@ Goal of the Dashboar<br>
 -	Table Consist of the data regarding all the metrics that are used in the hospitality domain and that are crucial in decision making filtered by property name and location.<br>
 
 ### Business Impact & Insights<br>
- • Revenue Growth:+18% YoY increase in bookings across key properties.<br>
+ • Revenue Growth:+15% YoY increase in bookings across key properties.<br>
  • Improved Targeting: Customer segmentation accuracy improved by 15%, resulting in a 20% increase in marketing ROI.<br>
  • Smarter Decision-Making: Real-time dashboards reduced decision-making time by 40%, enabling quicker reactions to occupancy trends.<br>
  • Market Position Recovery:Market share in the luxury/business hotel segment grew by 12%, regaining the second position regionally.<br>
