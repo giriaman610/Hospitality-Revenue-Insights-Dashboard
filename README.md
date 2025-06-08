@@ -22,12 +22,12 @@ The dataset used for this project was sourced from publicly available hospitalit
 Data on ~500 Hotel booking Sites  around the world, including details on their location, prices, Occupancy, Revenue  etc.
 
 ### 5.	Features / Highlights
-Goal of the Dashboar<br>
-•Design a business intelligence dashboard aimed at helping AtliQ Grands identify revenue leakage<br>
+Goal of the Dashboard<br>
+•Design a business intelligence dashboard aimed at helping hotel group to identify revenue leakage<br>
 •Analyze market trends with the help of diffrent charts and graphs.<br> 
 •Analyze data that come  from  online sites which are into hospitality domain ,all KPI's of the hospitality domain.<br>  
 
-•	Walkthrough of Key Visuals
+•	Walkthrough of Key Metrics
 -	Revenue
 -	RevPar
 -	DSRN
@@ -39,7 +39,7 @@ Goal of the Dashboar<br>
 -Bar chart gives the Realisation% and ADR by plattform<br> 
 -Donut chart Displays the %Revenue by Category<br>
 -Three line visuals side by side: one for RevPar another is for Occupancy% and the last is for ADR.<br>
--	Table Consist of the data regarding all the metrics that are used in the hospitality domain and that are crucial in decision making filtered by property name and location.<br>
+-Table Consist of the data regarding all the metrics that are used in the hospitality domain and that are crucial in decision making filtered by property name and location.<br>
 
 ### Business Impact & Insights<br>
  • Revenue Growth:+15% YoY increase in bookings across key properties.<br>
@@ -53,5 +53,5 @@ Goal of the Dashboar<br>
  • Continuous Improvement: A culture of continuous improvement was established through performance tracking and KPI monitoring.<br>
 
 ### 6.	Screenshot of the Dashboard
-  - ![Alt text](https://github.com/username/repo/assets/image.png)
+  
   -  ![Dashboard Preview](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Hospitality.%20Analytics.png)
