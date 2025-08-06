@@ -1,5 +1,8 @@
 # Hospitality-Revenue-Insights
 
+- ![Dashboard Preview](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Hospitality.%20Analytics.png)
+
+
 ### 1.	Project Title 
  Hospitality  Analytics Dashboard: Revenue Insights in Hospitality Domain
 
@@ -51,7 +54,4 @@ Goal of the Dashboard<br>
  • Improved Online Reputation: Proactive sentiment analysis on reviews and feedback led to quicker issue resolution and stronger brand image.<br>
  • Better Partner Management: Joint marketing efforts with partners led to a 10% higher conversion rate than solo campaigns.<br>
  • Continuous Improvement: A culture of continuous improvement was established through performance tracking and KPI monitoring.<br>
-
-### 6.	Screenshot of the Dashboard
   
-  -  ![Dashboard Preview](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Hospitality.%20Analytics.png)
