@@ -1,6 +1,5 @@
 # Hospitality-Revenue-Insights
-
-- ![Dashboard Preview](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Hospitality.%20Analytics.png)
+![Dashboard Preview](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Hospitality.%20Analytics.png)
 
 
 ### 1.	Project Title 
