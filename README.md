@@ -2,11 +2,7 @@
 ![Dashboard Preview](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Hospitality.%20Analytics.png)
 
 
-### 1.	Project Title 
- Hospitality  Analytics Dashboard: Revenue Insights in Hospitality Domain
-
-
-### 2. Purpose
+### Project Background
 A famous  hotel group owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, They are losing their market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of hotel group  wanted to incorporate "Business and Data Intelligence” to regain their market share and revenue.
 
 ### 3.	Tech Stack
