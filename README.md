@@ -86,15 +86,13 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
 - Rather than increasing ADR, optimize yield through better occupancy targeting (e.g., mid-week packages, extended stay offers).
 - Implement occupancy-driven dynamic pricing to protect RevPAR in lean periods.
 
-  Channel Optimization
+Channel Optimization
 
 - Platforms like logtrip and journey offer high realization and strong ADR — they can be prioritized for budget allocation and marketing partnerships.
 - Direct offline offers the highest ADR, indicating better margins. Strengthen direct booking capabilities with incentives, better UX/UI, and loyalty rewards.
 
 
 Property Performance & Experience Enhancement
-
-Improve Guest Experience in Low-Rated Properties
 
 
 Conduct analysis on why cancellations happen:
