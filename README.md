@@ -80,17 +80,22 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
 - Invest in business-specific amenities (Wi-Fi, workstations, express check-ins).
 - Launch early-bird or last-minute deals to stabilize ADR.
 
+***
+
  Occupancy-Driven Revenue Strategies
 
 - Focus efforts on boosting occupancy through promotions or events, especially during low-occupancy weeks.
 - Rather than increasing ADR, optimize yield through better occupancy targeting (e.g., mid-week packages, extended stay offers).
 - Implement occupancy-driven dynamic pricing to protect RevPAR in lean periods.
 
+***
+
 Channel Optimization
 
 - Platforms like logtrip and journey offer high realization and strong ADR — they can be prioritized for budget allocation and marketing partnerships.
 - Direct offline offers the highest ADR, indicating better margins. Strengthen direct booking capabilities with incentives, better UX/UI, and loyalty rewards.
 
+***
 
 Property Performance & Experience Enhancement
 
