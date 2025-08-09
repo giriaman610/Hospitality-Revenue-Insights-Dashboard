@@ -69,7 +69,7 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
 - Across all properties, the Realisation % is narrowly ranged (69.13%–71.13%).
 
 
-  ![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-09%20155038.png)
+![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-09%20155038.png)
 
 
 ## Recommendations
@@ -132,7 +132,7 @@ Deep-dive into top 5 properties to extract:
 - Does “Realisation” measure net revenue retention after discounts and cancellations, or only after cancellations?
   
 
-### Assumptions and Caveats
+### Assumptions 
 
 - All provided KPI data (ADR, Occupancy%, RevPAR, etc.) is accurately calculated according to industry-standard definitions.
 - External factors like seasonality, events, or competitor pricing are not explicitly modeled in this analysis but may influence trends.
