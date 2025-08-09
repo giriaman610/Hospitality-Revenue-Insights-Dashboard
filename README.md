@@ -30,7 +30,7 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
 - The Business segment commands a ~2.4% premium over Luxury.
 - Business travelers consistently pay higher rates with minimal volatility. The ~2% fluctuation across weeks indicates stable pricing potential.
 
-  ![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-07%20150201.png)
+![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-07%20150201.png)
 
 
 ### Key Metric Summary (Across 16 Weeks)
@@ -53,6 +53,8 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
 
 - Realisation % ~70.2–70.27%
 - ADR ~₹12,633–₹12,791
+
+![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-09%20154749.png)
 
 ### Performance Summary of 25 Properties
 
