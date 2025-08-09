@@ -121,6 +121,32 @@ Deep-dive into top 5 properties to extract:
 - Booking channel strategies
 
 
+## Clarifying Questions, Assumptions, and Caveats
+
+### Questions for Stakeholders Prior to Project Advancement
+
+- Are ADR and Occupancy% figures inclusive of all property types (luxury, mid-scale, budget) or segmented by category?
+- Do the revenue numbers reflect gross revenue or net after commission deductions?
+- Is the DSRN (Daily Sellable Room Nights) constant across all weeks, or are there seasonal variations?
+- Are cancellation impacts factored into ADR and RevPAR calculations?
+- Does “Realisation” measure net revenue retention after discounts and cancellations, or only after cancellations?
+  
+
+### Assumptions and Caveats
+
+- All provided KPI data (ADR, Occupancy%, RevPAR, etc.) is accurately calculated according to industry-standard definitions.
+- External factors like seasonality, events, or competitor pricing are not explicitly modeled in this analysis but may influence trends.
+- No drastic operational changes occurred during the analysis period (e.g., renovations, closures).
+- Booking channel performance metrics are assumed to be comparable across channels, without hidden costs (marketing, commissions) skewing results.
+
+### Caveats
+
+- Power BI data extracts represent aggregated metrics—granular transaction-level data may reveal additional patterns.
+- Correlation does not imply causation; e.g., high ADR and high occupancy could both be driven by third-party factors (festivals, events).
+- Small sample sizes for certain channels or property segments could lead to volatile weekly performance.
+- Revenue optimization strategies proposed here may require testing in controlled pilots before full rollout.
+
+
 
 
 
