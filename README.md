@@ -41,7 +41,7 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
 - Lowest occupancy is 50.49% while highest is 66.97%.
 - If low-occupancy weeks matched high-occupancy levels, RevPAR could increase by ~₹2,000, a potential +28% revenue gain per room.
 
-![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-09%20154205.png)
+![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-09%20154440.png)
 
 
 ### Realisation% and ADR by platform
