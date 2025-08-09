@@ -72,7 +72,7 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
   ![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-09%20155038.png)
 
 
-### Recommendations
+## Recommendations
 
  Strategic Revenue Growth
 
