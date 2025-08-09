@@ -29,6 +29,7 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
 - The Business category consistently shows the highest ADR, staying around ₹12,900–₹13,000 across all weeks.
 - The Business segment commands a ~2.4% premium over Luxury.
 - Business travelers consistently pay higher rates with minimal volatility. The ~2% fluctuation across weeks indicates stable pricing potential.
+  
 
 ![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-07%20150201.png)
 
@@ -40,6 +41,7 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
 - ADR shows a slight negative correlation with both (−0.24 to −0.27), indicating that increasing prices may slightly reduce occupancy.
 - Lowest occupancy is 50.49% while highest is 66.97%.
 - If low-occupancy weeks matched high-occupancy levels, RevPAR could increase by ~₹2,000, a potential +28% revenue gain per room.
+- 
 
 ![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-09%20154440.png)
 
@@ -53,8 +55,10 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
 
 - Realisation % ~70.2–70.27%
 - ADR ~₹12,633–₹12,791
+- 
 
 ![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-09%20154749.png)
+
 
 ### Performance Summary of 25 Properties
 
@@ -63,6 +67,9 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
 - The average cancellation rate is ~25%, which can significantly impact net revenue.
 - Properties with higher average ratings (~4.3) also show higher RevPAR and occupancy.
 - Across all properties, the Realisation % is narrowly ranged (69.13%–71.13%).
+
+
+  ![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-09%20155038.png)
 
 
 
