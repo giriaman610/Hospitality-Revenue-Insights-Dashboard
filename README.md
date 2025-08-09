@@ -33,6 +33,16 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
   ![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-07%20150201.png)
 
 
+  ### Key Metric Summary (Across 16 Weeks)
+
+- DR fluctuates by less than 1.2% from min to max (₹152), indicating strong price consistency.
+- Despite a stable ADR, RevPAR has a wide range of ₹2,072.94, suggesting that Occupancy drives most of the revenue variance.
+- ADR shows a slight negative correlation with both (−0.24 to −0.27), indicating that increasing prices may slightly reduce occupancy.
+- Lowest occupancy is 50.49% while highest is 66.97%.
+- If low-occupancy weeks matched high-occupancy levels, RevPAR could increase by ~₹2,000, a potential +28% revenue gain per room.
+
+
+
 
 
 
