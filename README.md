@@ -74,7 +74,7 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
 
   ## Recommendations
 
-  Strategic Revenue Growth
+ Strategic Revenue Growth
 
 - Prioritize premium services and targeted promotions for business travelers.
 - Invest in business-specific amenities (Wi-Fi, workstations, express check-ins).
@@ -113,9 +113,9 @@ For properties with high ADR and low occupancy:
 
 Deep-dive into top 5 properties to extract:
 
-Operational practices
-Local marketing efforts
-Booking channel strategies
+- Operational practices
+- Local marketing efforts
+- Booking channel strategies
 
 
 
