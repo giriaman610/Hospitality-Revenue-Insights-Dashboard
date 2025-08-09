@@ -33,7 +33,7 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
   ![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-07%20150201.png)
 
 
-  ### Key Metric Summary (Across 16 Weeks)
+### Key Metric Summary (Across 16 Weeks)
 
 - DR fluctuates by less than 1.2% from min to max (₹152), indicating strong price consistency.
 - Despite a stable ADR, RevPAR has a wide range of ₹2,072.94, suggesting that Occupancy drives most of the revenue variance.
@@ -41,6 +41,24 @@ This project examines key hospitality performance metrics such as ADR, Occupancy
 - Lowest occupancy is 50.49% while highest is 66.97%.
 - If low-occupancy weeks matched high-occupancy levels, RevPAR could increase by ~₹2,000, a potential +28% revenue gain per room.
 
+
+### Realisation% and ADR by platform
+
+- Logtrip (70.59%), journey (70.52%), and direct online (70.27%) are the top 3 in terms of realization.
+- Direct offline leads with the highest ADR at ₹12,791.17 despite being 4th in realization.
+- Their ADRs are also significantly lower (around ₹11,800), indicating lower profitability.
+- Direct channels (online and offline) perform competitively:
+
+- Realisation % ~70.2–70.27%
+- ADR ~₹12,633–₹12,791
+
+### Performance Summary of 25 Properties
+
+- Top revenue properties are earning ~3x more than the lowest earners.
+- Some properties with ADR > ₹14,000 still have occupancy below 60%.
+- The average cancellation rate is ~25%, which can significantly impact net revenue.
+- Properties with higher average ratings (~4.3) also show higher RevPAR and occupancy.
+- Across all properties, the Realisation % is narrowly ranged (69.13%–71.13%).
 
 
 
