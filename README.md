@@ -19,34 +19,38 @@ The dataset used for this project was sourced from publicly available hospitalit
 
 Data on ~500 Hotel booking Sites  around the world, including details on their location, prices, Occupancy, Revenue  etc.
 
-### 5.	Features / Highlights
-Goal of the Dashboard<br>
-•Design a business intelligence dashboard aimed at helping hotel group to identify revenue leakage<br>
-•Analyze market trends with the help of diffrent charts and graphs.<br> 
-•Analyze data that come  from  online sites which are into hospitality domain ,all KPI's of the hospitality domain.<br>  
+## Executive Summary
+This project examines key hospitality performance metrics such as ADR, Occupancy, RevPAR, Revenue, Realisation, and DSRN over multiple weeks to uncover actionable insights for revenue optimization. While the Average Daily Rate (ADR) remains remarkably stable (with just a ₹152 range), the Revenue per Available Room (RevPAR) fluctuates significantly by ₹2,073 due to changing occupancy, which ranges from 50.5% to 67.0%. There is a perfect positive correlation between Occupancy% and RevPAR (correlation = 1.00), indicating that boosting occupancy is the most effective lever for increasing room revenue.<br>  
 
-•	Walkthrough of Key Metrics
--	Revenue
--	RevPar
--	DSRN
--	Occupancy%
--	ADR
--	Realisation
+## Insights Deep-Dive
 
--An interactive slicer lets users filter all visuals by selected city, such as Delhi , Banglore , Hyderabad and Mumbai.<br>
--Bar chart gives the Realisation% and ADR by plattform<br> 
--Donut chart Displays the %Revenue by Category<br>
--Three line visuals side by side: one for RevPar another is for Occupancy% and the last is for ADR.<br>
--Table Consist of the data regarding all the metrics that are used in the hospitality domain and that are crucial in decision making filtered by property name and location.<br>
+### ADR Trends by Week and Category
 
-### Business Impact & Insights<br>
- • Revenue Growth:+15% YoY increase in bookings across key properties.<br>
- • Improved Targeting: Customer segmentation accuracy improved by 15%, resulting in a 20% increase in marketing ROI.<br>
- • Smarter Decision-Making: Real-time dashboards reduced decision-making time by 40%, enabling quicker reactions to occupancy trends.<br>
- • Market Position Recovery:Market share in the luxury/business hotel segment grew by 12%, regaining the second position regionally.<br>
- • Enhanced Guest Experience: Personalized service improvements led to a 18% increase in guest satisfaction scores (measured via post-stay surveys).<br>
- • Faster Response to Trends: Ability to identify and respond quickly to market shifts or seasonal demand patterns.<br>
- • Improved Online Reputation: Proactive sentiment analysis on reviews and feedback led to quicker issue resolution and stronger brand image.<br>
- • Better Partner Management: Joint marketing efforts with partners led to a 10% higher conversion rate than solo campaigns.<br>
- • Continuous Improvement: A culture of continuous improvement was established through performance tracking and KPI monitoring.<br>
-  
+- The Business category consistently shows the highest ADR, staying around ₹12,900–₹13,000 across all weeks.
+- The Business segment commands a ~2.4% premium over Luxury.
+- Business travelers consistently pay higher rates with minimal volatility. The ~2% fluctuation across weeks indicates stable pricing potential.
+
+  ![Annual Sales and Growth Rates](https://github.com/giriaman610/Hospitality-Revenue-Insights-Dashboard/blob/main/Screenshot%202025-08-07%20150201.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
